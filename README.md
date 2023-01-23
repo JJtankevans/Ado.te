@@ -10,7 +10,7 @@ $ cd nome-da-pasta-em-que-voce-clonou
 Em seguida cria o ambiente virtual e entre nele da seguinte maneira
 ```sh
 $ virtualenv --no-site-packages venv
-$ venv/bin/activate
+$ venv/Scripts/activate
 ```
 Com o ambiente virtual ativo instale as dependências
 ```sh
